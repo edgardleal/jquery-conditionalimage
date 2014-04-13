@@ -1,0 +1,28 @@
+{
+  "name": "conditionalimage",
+  "title": "Show images by condition",
+  "description": "Show images by condition ",
+  "version": "1.0.0",
+  "homepage": "https://github.com/edgardleal/conditionalImage.git",
+  "author": {
+    "name": "Edgard Leal",
+    "url": "https://github.com/edgardleal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgardleal/conditionalImage.git"
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
